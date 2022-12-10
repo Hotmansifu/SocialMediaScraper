@@ -1,4 +1,4 @@
-# Social-media-scraping-tool-
+# Osint-instagram-twitter-facebook
 social media scraping tool ( Team Genesis )
 
 
