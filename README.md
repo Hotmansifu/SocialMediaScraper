@@ -1,5 +1,5 @@
-# Osint-instagram-twitter-facebook
-social media scraping tool ( Team Genesis )
+# Osint/instagram-twitter-facebook
+Social Media Scraping Tool ( Team Genesis )
 
 
 
