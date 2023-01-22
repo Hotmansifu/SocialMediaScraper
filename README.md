@@ -37,8 +37,7 @@ First of all Make sure you are in SocialMediaScrapper tool directory  with `cd S
 2.Choose the Socialmedia you want to scrape
 
 Thats all! everything is written in the code after this!
-
-#project-status
+## project-status
 Project is: _in progress_
 Further improvements for our project:
 1)New Social media platforms
