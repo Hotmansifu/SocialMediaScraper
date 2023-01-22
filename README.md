@@ -33,23 +33,22 @@ Warning: It is advisable to not use your own/primary account when using this too
 ## Usage
 First of all Make sure you are in SocialMediaScrapper tool directory  with `cd SocialMediaScraper` 
 
-1.Run the script with `./start.sh>`
-2.Choose the Socialmedia you want to scrape
+1. Run the script with `./start.sh>`
+2. Choose the Socialmedia you want to scrape
 
 Thats all! everything is written in the code after this!
 ## project-status
 Project is: _in progress_
 Further improvements for our project:
-1)New Social media platforms
-2)More detailed information about the target.
-3)Psychological portrait of the target
+1. New Social media platforms
+
+2. More detailed information about the target.
+
+3. Psychological portrait of the target
 
 ## Acknowledgements
 
 - This project was inspired by https://github.com/Datalux/Osintgram and that project was further used for this project. Thanks to them for making the hard work!
-- 
-
-
 ## Contact
 Created by [@Hotmansifu](https://github.com/Hotmansifu) and Nikoloz Jorbenadze - feel free to contact me!
 
