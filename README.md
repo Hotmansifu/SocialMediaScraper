@@ -1,7 +1,9 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# SocialMediaScraper
+> The SocialMediaScraper project on GitHub is a tool that allows users to scrape data from various social media platforms, including Facebook, Twitter, and Instagram. The project is written in Python and uses a combination of web scraping techniques and APIs to gather information such as user profiles, posts, and comments. The collected data can then be exported to a CSV file for further analysis.
 
+Disclaimer: FOR EDUCATIONAL PURPOSE ONLY! The contributors do not assume any responsibility for the use of this tool.
+
+Warning: It is advisable to not use your own/primary account when using this tool.
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -43,47 +45,45 @@ List the ready features here:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+1. Fork/Clone/Download this repo
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+    `git clone https://github.com/Hotmansifu/SocialMediaScraper.git`
 
+2. Navigate to the directory
+
+    `cd SocialMediaScraper`
+
+3. Run `./install.sh`
+
+4. Write `chmod 777 start.sh` in Terminal
+
+5. Run the start.sh script in this way
+
+    * As an interactive prompt `./start.sh>
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+First of all Make sure you are in SocialMediaScrapper tool directory  with `cd SocialMediaScraper` 
 
-`write-your-code-here`
+1.Run the script with `./start.sh>`
+2.Choose the Socialmedia you want to scrape
 
+Thats all! everything is written in the code after this!
 
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
+##Future plans
+Project is: _in progress_
+Further improvements for our project:
+1)New Social media platforms
+2)More detailed information about the target.
+3)Psychological portrait of the target
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
+- This project was inspired by https://github.com/Datalux/Osintgram and that project was further used for this project. Thanks to them for making the hard work!
+- 
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@Hotmansifu](https://github.com/Hotmansifu) and Nikoloz Jorbenadze - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
